@@ -1,7 +1,7 @@
 {
   "name": "biojs-vis-wigexplorer",
   "description": "visualization a wig formatted file",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/anilthanki/biojs-vis-wigexplorer",
   "author": {
     "name": "Anil S. Thanki",

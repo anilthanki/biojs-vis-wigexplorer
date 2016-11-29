@@ -1,5 +1,7 @@
 # biojs-vis-wigexplorer
 
+[![Join the chat at https://gitter.im/anilthanki/biojs-vis-wigexplorer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/anilthanki/biojs-vis-wigexplorer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM version](http://img.shields.io/npm/v/biojs-vis-wigexplorer.svg)](https://www.npmjs.org/package/biojs-vis-wigexplorer)
 [![Build Status](https://secure.travis-ci.org/anilthanki/biojs-vis-wigexplorer.png?branch=master)](http://travis-ci.org/anilthanki/biojs-vis-wigexplorer)
 [![Coverage Status](https://img.shields.io/coveralls/anilthanki/biojs-vis-wigexplorer.svg)](https://coveralls.io/r/anilthanki/biojs-vis-wigexplorer)
